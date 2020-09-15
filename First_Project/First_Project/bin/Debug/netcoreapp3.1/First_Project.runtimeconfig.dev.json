@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\PeaceSeeker\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\PeaceSeeker\\.nuget\\packages"
+    ]
+  }
+}
