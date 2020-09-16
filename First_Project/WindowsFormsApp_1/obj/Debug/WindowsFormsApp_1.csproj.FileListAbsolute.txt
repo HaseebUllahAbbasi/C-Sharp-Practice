@@ -1,0 +1,10 @@
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.exe.config
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.exe
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\bin\Debug\WindowsFormsApp_1.pdb
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.Form1.resources
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.Properties.Resources.resources
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.exe
+C:\Users\PeaceSeeker\Documents\C_Sharp\First_Project\WindowsFormsApp_1\obj\Debug\WindowsFormsApp_1.pdb
