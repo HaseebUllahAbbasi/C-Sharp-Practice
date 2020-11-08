@@ -1,0 +1,12 @@
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\bin\Debug\Digital_Clock.exe.config
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\bin\Debug\Digital_Clock.exe
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\bin\Debug\Digital_Clock.pdb
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\bin\Debug\Guna.UI2.dll
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.Form1.resources
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.Properties.Resources.resources
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.GenerateResource.cache
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.csproj.CopyComplete
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.exe
+C:\Users\PeaceSeeker\source\repos\Digital_Clock\obj\Debug\Digital_Clock.pdb
