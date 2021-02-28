@@ -11,3 +11,9 @@ C:\Users\PeaceSeeker\source\repos\Networking\obj\Debug\netcoreapp3.1\Networking.
 C:\Users\PeaceSeeker\source\repos\Networking\obj\Debug\netcoreapp3.1\Networking.dll
 C:\Users\PeaceSeeker\source\repos\Networking\obj\Debug\netcoreapp3.1\Networking.pdb
 C:\Users\PeaceSeeker\source\repos\Networking\obj\Debug\netcoreapp3.1\Networking.genruntimeconfig.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.csprojAssemblyReference.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.AssemblyInfoInputs.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.AssemblyInfo.cs
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.csproj.CoreCompileInputs.cache
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.dll
+C:\Users\PeaceSeeker\Documents\C_Sharp\Networking\obj\Debug\netcoreapp3.1\Networking.pdb

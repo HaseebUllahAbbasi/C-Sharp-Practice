@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PeaceSeeker\\source\\repos\\Networking\\Networking.csproj",
+      "projectUniqueName": "C:\\Users\\PeaceSeeker\\Documents\\C_Sharp\\Networking\\Networking.csproj",
       "projectName": "Networking",
-      "projectPath": "C:\\Users\\PeaceSeeker\\source\\repos\\Networking\\Networking.csproj",
+      "projectPath": "C:\\Users\\PeaceSeeker\\Documents\\C_Sharp\\Networking\\Networking.csproj",
       "packagesPath": "C:\\Users\\PeaceSeeker\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PeaceSeeker\\source\\repos\\Networking\\obj\\",
+      "outputPath": "C:\\Users\\PeaceSeeker\\Documents\\C_Sharp\\Networking\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PeaceSeeker\\AppData\\Roaming\\NuGet\\NuGet.Config",
